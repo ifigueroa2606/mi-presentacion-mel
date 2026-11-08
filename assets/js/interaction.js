@@ -1,5 +1,5 @@
 // Número de WhatsApp del organizador, en formato internacional para México.
-const WHATSAPP_ORGANIZADOR = '525518335506';
+const WHATSAPP_ORGANIZADOR = '525626278948';
 const params = new URLSearchParams(location.search);
 const label = document.getElementById('familyName');
 const familyFromUrl = params.get('familia');
